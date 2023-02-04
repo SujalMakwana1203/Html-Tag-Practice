@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+    color: white;
+}
+
+
+.topnav a:hover{
+    padding: 10px;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    
+}
+.topnav{
+    padding: 20px;
+    
+    background-color: gray;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+a{
+    padding: 10px;
+}
+img{
+    float: right;
+}
